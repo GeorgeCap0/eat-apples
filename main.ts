@@ -24,7 +24,7 @@ info.onScore(1000, function () {
     Hamburger = sprites.create(assets.image`Hamburger`, SpriteKind.WhatIsThis)
     Character.sayText("Bro what is this?!", 5000, false)
     pause(5000)
-    Hamburger.setImage(assets.image`BurgerWithSpiks`)
+    Hamburger.setImage(assets.image`BurgerWithSpikes`)
     Hamburger.sayText("How DARE YOU eat all the apples", 5000, false)
     pause(5000)
     Hamburger.sayText("Your DEAD", 2000, false)
@@ -151,6 +151,6 @@ forever(function () {
 })
 forever(function () {
     if (Boss_Fight == true) {
-        pause(15000)
+        pause(10000)
     }
 })
