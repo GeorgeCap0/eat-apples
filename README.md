@@ -1,3 +1,5 @@
+# This Game Nolonger Gets Updates!
+### For the newest versions go to https://github.com/GeorgeCap0/eat-apples-v2/
 ## What Is This Game About?
 
 This game is about eating apples.
